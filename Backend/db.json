@@ -1,13 +1,9 @@
 {
   "profile": [
     {
-      "id": 1,
-      "name": "Manoj"
-    },
-    {
-      "name": "mashrboy",
-      "email": "m@",
-      "id": 2
+      "name": "Manoj",
+      "email": "manoj@",
+      "id": 1
     }
   ]
 }
